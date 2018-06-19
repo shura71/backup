@@ -36,7 +36,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'mail', '= 2.5.4'
   gem.add_dependency 'mime-types', '= 1.23'
   gem.add_dependency 'multi_json', '= 1.7.7'
-  gem.add_dependency 'multi_xml', '= 0.5.4'
+  gem.add_dependency 'multi_xml', '~> 0.5'
   gem.add_dependency 'multipart-post', '= 1.2.0'
   gem.add_dependency 'net-scp', '= 1.1.2'
   gem.add_dependency 'net-sftp', '= 2.1.2'
