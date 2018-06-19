@@ -16,7 +16,7 @@ source 'https://rubygems.org'
 
 # Specify version requirements to control `bundle update` if needed.
 group :production do
-  gem 'thor'
+  gem 'thor', '0.19.1'
   gem 'open4'
   gem 'fog', '= 1.13.0' # see https://github.com/fog/fog/pull/1905
   gem 'excon'
