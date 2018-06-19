@@ -46,7 +46,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'polyglot', '= 0.3.3'
   gem.add_dependency 'ruby-hmac', '= 0.4.0'
   gem.add_dependency 'simple_oauth', '= 0.2.0'
-  gem.add_dependency 'thor', '= 0.18.1'
+  gem.add_dependency 'thor', '= 0.19.1'
   gem.add_dependency 'treetop', '= 1.4.14'
   gem.add_dependency 'twitter', '= 4.8.1'
 end
