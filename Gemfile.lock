@@ -104,7 +104,7 @@ PLATFORMS
 DEPENDENCIES
   dropbox-sdk (= 1.5.1)
   excon
-  fog (= 1.13.0)
+  fog (>= 1.13.0)
   fuubar
   guard
   guard-rspec

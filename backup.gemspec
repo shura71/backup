@@ -27,7 +27,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'builder', '= 3.2.2'
   gem.add_dependency 'dropbox-sdk', '= 1.5.1'
   gem.add_dependency 'excon', '= 0.25.3'
-  gem.add_dependency 'faraday', '= 0.8.7'
+  gem.add_dependency 'faraday', '>= 0.8.7'
   gem.add_dependency 'fog', '>= 1.13.0'
   gem.add_dependency 'formatador', '= 0.2.4'
   gem.add_dependency 'hipchat', '= 0.11.0'
