@@ -32,7 +32,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'formatador', '= 0.2.4'
   gem.add_dependency 'hipchat', '= 0.11.0'
   gem.add_dependency 'httparty', '= 0.11.0'
-  gem.add_dependency 'json', '= 1.8.0'
+  gem.add_dependency 'json', '> 1.8.0'
   gem.add_dependency 'mail', '= 2.5.4'
   gem.add_dependency 'mime-types', '= 1.23'
   gem.add_dependency 'multi_json', '= 1.7.7'
