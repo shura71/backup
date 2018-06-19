@@ -111,7 +111,7 @@ DEPENDENCIES
   hipchat
   json
   listen (~> 1.0)
-  mail (= 2.5.4)
+  mail (>= 2.5.4)
   mocha
   net-scp
   net-sftp
